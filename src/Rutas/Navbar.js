@@ -20,6 +20,9 @@ const Navbar = () => {
                     <Link className='nav-link' to='/auth'>Auth</Link>
                 </li>
                 <li className='nav-item'>
+                    <Link className='nav-link' to='/task'>lista</Link>
+                </li>
+                <li className='nav-item'>
                     <Link className='nav-link' to='/contacto'>Nosotros</Link>
                 </li>
             </ul>
