@@ -70,6 +70,7 @@ function IniciarSesion (props) {
             </Link>
             </strong>
              </div>
+             <h1>holaaa</h1>
              </div>
           )
 }
